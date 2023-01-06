@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Test location Test Address</name>
+   <tag></tag>
+   <elementGuidId>439aeccc-765b-4571-86a9-fe183782ecd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-instance-id-projectAddress-option-0']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e52eb4ca-0dbb-4175-b69d-1af4efa6add7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex bg-Gray-40 rounded-[9px] h-[133px] gap-x-5 hover:drop-shadow-[0_1px_5px_rgba(0,0,0,0.25)]</value>
+      <webElementGuid>7e6b1c88-43a4-4996-90e8-510ea60d0392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test location Test Address</value>
+      <webElementGuid>275f7676-070e-436a-b261-a30b723c4260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-instance-id-projectAddress-option-0&quot;)/div[@class=&quot;flex bg-Gray-40 rounded-[9px] h-[133px] gap-x-5 hover:drop-shadow-[0_1px_5px_rgba(0,0,0,0.25)]&quot;]</value>
+      <webElementGuid>b6b996d3-4cc1-42a9-b843-44e418e907f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-instance-id-projectAddress-option-0']/div</value>
+      <webElementGuid>1edfc826-a4e5-4259-9d2e-c249b77b9245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search and select site address'])[1]/following::div[7]</value>
+      <webElementGuid>f816d4ca-baf2-44c6-af7d-53752a49f3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[12]</value>
+      <webElementGuid>c379441c-8e12-4f95-bdb0-b1e0ada339b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>93b4a3e2-8b59-4123-be81-02d9bacbaf72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Test location Test Address' or . = 'Test location Test Address')]</value>
+      <webElementGuid>68627ccd-01c4-4bd7-9d2d-d76c6b0848d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

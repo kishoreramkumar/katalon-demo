@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search and select project_select2-selec_3d4045</name>
+   <tag></tag>
+   <elementGuidId>4b092b76-ee1d-44d9-8480-fd40a11927ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/form/div[3]/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select2-selection__input-container.css-ackcql</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dcf2b424-4ce1-4bbb-a5df-d1ead5031a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__input-container css-ackcql</value>
+      <webElementGuid>db936fb3-ceac-430b-a4ca-b9463e4fcf4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;flex h-screen&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex-1 flex overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto main-content py-10 px-4 md:px-8 scrollbar scrollbar_for_firefox&quot;]/div[@class=&quot;flex justify-center undefined&quot;]/div[@class=&quot;block p-6 rounded-lg shadow-lg bg-white min-w-full border border-gray-200&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-6 mt-5 md:grid-cols-2&quot;]/div[1]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full css-b62m3t-container&quot;]/div[@class=&quot;select2-selection__control select2-selection__control--is-focused select2-selection__control--menu-is-open css-163nsml-control&quot;]/div[@class=&quot;select2-selection__value-container css-1d8n9bt&quot;]/div[@class=&quot;select2-selection__input-container css-ackcql&quot;]</value>
+      <webElementGuid>4b24e624-4707-40e6-b2b7-4ae9b3663dc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/form/div[3]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>d595d3c5-8c16-441e-b151-0b931389732a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search and select project'])[1]/following::div[1]</value>
+      <webElementGuid>fe92be01-690f-45cb-b00f-75b779d5bffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[6]</value>
+      <webElementGuid>41d180f8-74bf-4b11-a27d-69849704a6ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alpha Beta Omega'])[1]/preceding::div[3]</value>
+      <webElementGuid>b1d68ad9-bbec-4feb-8494-473b5e95b821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANm technosol construstion'])[1]/preceding::div[4]</value>
+      <webElementGuid>3584849d-3e4d-4292-b919-00e0957f4bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>9ac9e548-e3a1-4fe5-995f-a2b143191ea0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

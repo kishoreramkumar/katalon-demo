@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search and select</name>
+   <tag></tag>
+   <elementGuidId>13df73f5-bb15-4202-8bb7-a3fadc01b7da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[3]/div/div[2]/form/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select2-selection__control.select2-selection__control--is-focused.select2-selection__control--menu-is-open.css-163nsml-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c38b0eee-7a09-43c3-a78a-a77c35c48b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__control select2-selection__control--is-focused select2-selection__control--menu-is-open css-163nsml-control</value>
+      <webElementGuid>a9b6fae5-da28-415e-87b0-018564ac684c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search and select</value>
+      <webElementGuid>be20abbd-97d4-4617-a6e3-7a0aafed410e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;flex h-screen&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex-1 flex overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto main-content py-10 px-4 md:px-8 scrollbar scrollbar_for_firefox&quot;]/div[@class=&quot;flex justify-center undefined&quot;]/div[@class=&quot;block p-6 rounded-lg shadow-lg bg-white min-w-full border border-gray-200&quot;]/div[@class=&quot;fixed z-30 inset-0 overflow-y-auto  false&quot;]/div[@class=&quot;flex items-center justify-center h-screen&quot;]/div[@class=&quot;z-40 absolute p-6 mt-24 md:mt-0 mx-2 md:mx-1 overflow-auto inline-block max-h-90 h-auto rounded-lg modalscrollbar bg-white text-left shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-xl w-full undefined&quot;]/form[@class=&quot;mt-5&quot;]/div[@class=&quot;grid grid-cols-1 gap-3 mt-2 md:grid-cols-2 md:mt-5&quot;]/div[2]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full css-b62m3t-container&quot;]/div[@class=&quot;select2-selection__control select2-selection__control--is-focused select2-selection__control--menu-is-open css-163nsml-control&quot;]</value>
+      <webElementGuid>4a302530-ce46-40f8-b920-8da4af71930b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[3]/div/div[2]/form/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>f90bc389-83e8-449a-bde5-30257209154b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[3]</value>
+      <webElementGuid>3f665698-cebe-41a5-829d-e62f151191ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GI Wire'])[1]/preceding::div[6]</value>
+      <webElementGuid>ae8a1b21-c789-4ee8-820d-0830ce41c879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>2653a662-4b6f-45f7-9183-c6ab75cad322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Search and select' or . = 'Search and select')]</value>
+      <webElementGuid>b7021806-0c25-4b56-a031-c7c763938fb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

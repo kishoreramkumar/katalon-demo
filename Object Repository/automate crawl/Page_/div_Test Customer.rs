@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Test Customer</name>
+   <tag></tag>
+   <elementGuidId>78115fe6-0634-47ea-adb3-dec28395c8e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-instance-id-customer-listbox']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select2-selection__menu-list.css-11unzgr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11326130-c2d9-4401-88e3-d7c5d28bae5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__menu-list css-11unzgr</value>
+      <webElementGuid>4a19879a-a5d7-46cd-add1-b2302831b3c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Customer</value>
+      <webElementGuid>4e580a3a-ab59-4ea3-a2c5-3948b843ce85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-instance-id-customer-listbox&quot;)/div[@class=&quot;select2-selection__menu-list css-11unzgr&quot;]</value>
+      <webElementGuid>0d3b3454-a503-4165-83dd-12b603f68570</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-instance-id-customer-listbox']/div</value>
+      <webElementGuid>b68f7f74-fa59-4f33-ad4b-d82679e3bbec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[10]</value>
+      <webElementGuid>3173db3d-9b3b-40f0-a8ab-bdeccc1ca7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>7458f181-bf60-4958-a893-e073ebf0bd03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Test Customer' or . = 'Test Customer')]</value>
+      <webElementGuid>f392b092-f325-40df-8fc3-eb36d7fe6480</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg__css-8mmkcg</name>
+   <tag></tag>
+   <elementGuidId>f6b3669e-59de-44fd-aac2-90cb22670459</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select2-selection__indicator.select2-selection__dropdown-indicator.css-zgjpv3-indicatorContainer > svg.css-8mmkcg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>49763caa-fbb9-4917-aeb7-48bf49b22cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>fec09290-3a38-49b5-bd02-46faa07598a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>957e6881-18ba-4c8a-8eed-86f801cc5f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>d2cdf781-bb9b-4c5b-a84a-34360d0e3331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d50fc35f-dd9b-4d57-bbbd-80f0c638279d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8a636152-aa54-4388-bea9-e0190f941dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-8mmkcg</value>
+      <webElementGuid>ff022b6b-20ce-41f2-ad90-d9aa7abbd2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;flex h-screen&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex-1 flex overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto main-content py-10 px-4 md:px-8 scrollbar scrollbar_for_firefox&quot;]/div[@class=&quot;flex justify-center undefined&quot;]/div[@class=&quot;block p-6 rounded-lg shadow-lg bg-white min-w-full border border-gray-200&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-6 mt-5 md:grid-cols-2&quot;]/div[1]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full css-b62m3t-container&quot;]/div[@class=&quot;select2-selection__control select2-selection__control--is-focused select2-selection__control--menu-is-open css-163nsml-control&quot;]/div[@class=&quot;select2-selection__indicators css-1wy0on6&quot;]/div[@class=&quot;select2-selection__indicator select2-selection__dropdown-indicator css-zgjpv3-indicatorContainer&quot;]/svg[@class=&quot;css-8mmkcg&quot;]</value>
+      <webElementGuid>bb569482-5ee7-477a-b886-0748bb19dc94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::*[name()='svg'][1]</value>
+      <webElementGuid>57e97d01-d169-4c74-9571-865b6ae35f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No options'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>18d64c87-fd6d-40a9-9e3c-2da0c8be00cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address details'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>8c1fe14f-1bcf-42d0-9715-3569f31f5b7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Expected Delivery Date</name>
+   <tag></tag>
+   <elementGuidId>4760f8a9-3e0f-4cda-99ee-6cc490244966</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/form/div[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Body-Default.cursor-pointer.pb-2.text-sm.font-medium.text-gray-900</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>12871b4f-6cd2-494c-91b9-962d02ba3e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Body-Default cursor-pointer pb-2 text-sm font-medium text-gray-900</value>
+      <webElementGuid>c9f23f25-b22e-4e3d-bbea-72be1f1b4f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expected Delivery Date*</value>
+      <webElementGuid>3d26913c-183f-41e6-9ca4-c1edabc0c80f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;flex h-screen&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex-1 flex overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto main-content py-10 px-4 md:px-8 scrollbar scrollbar_for_firefox&quot;]/div[@class=&quot;flex justify-center undefined&quot;]/div[@class=&quot;block p-6 rounded-lg shadow-lg bg-white min-w-full border border-gray-200&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-6 mt-5 md:grid-cols-2&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;Body-Default cursor-pointer pb-2 text-sm font-medium text-gray-900&quot;]</value>
+      <webElementGuid>a7667806-9311-4313-9ed1-0fbb77bb545a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/form/div[4]/div/div</value>
+      <webElementGuid>ed93d503-fde3-4fdd-be9b-c28d0a8bbc41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Customer'])[1]/following::div[6]</value>
+      <webElementGuid>dd7809c1-3f01-4ba8-a8f8-697695a3fe0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[11]</value>
+      <webElementGuid>b073138a-5bb1-429f-8c74-2377646a13e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Expected Delivery Date']/parent::*</value>
+      <webElementGuid>d3c56906-7220-4407-8892-6a8b2ec4709e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/div/div</value>
+      <webElementGuid>17ee1139-03c3-4065-8615-46bd640d6ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Expected Delivery Date*' or . = 'Expected Delivery Date*')]</value>
+      <webElementGuid>d1adfdc3-680b-488d-8b47-555365deda22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

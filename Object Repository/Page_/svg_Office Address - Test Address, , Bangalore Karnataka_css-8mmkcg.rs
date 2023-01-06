@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Office Address - Test Address, , Bangalore Karnataka_css-8mmkcg</name>
+   <tag></tag>
+   <elementGuidId>292afcf8-9700-45cf-8cc7-096b50c7cc32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Office Address - Test Address, , Bangalore Karnataka'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e419a7d3-eabb-4c3b-9800-63343f639a56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>65503301-ca91-4e48-9851-ac71dc80c095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>dd15c263-ea77-45fa-9afc-b3d6bcc64ca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>2ed6e24e-8513-496c-88d2-874e830cd537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d2dd75c5-e264-4ffd-9d3b-1664ca0d6b70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4d060999-68f0-4f1c-9aa7-c72976c8116d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-8mmkcg</value>
+      <webElementGuid>da05fa93-fc1e-44e9-bd17-25f32055b751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;flex h-screen&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex-1 flex overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto main-content py-10 px-4 md:px-8 scrollbar scrollbar_for_firefox&quot;]/div[@class=&quot;flex justify-center undefined&quot;]/div[@class=&quot;block p-6 rounded-lg shadow-lg bg-white min-w-full border border-gray-200&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-6 mt-5 md:grid-cols-2&quot;]/div[2]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full css-b62m3t-container&quot;]/div[@class=&quot;select2-selection__control css-4vr5o6-control&quot;]/div[@class=&quot;select2-selection__indicators css-1wy0on6&quot;]/div[@class=&quot;select2-selection__indicator select2-selection__dropdown-indicator css-hcykik-indicatorContainer&quot;]/svg[@class=&quot;css-8mmkcg&quot;]</value>
+      <webElementGuid>0ef02f73-1e34-4ffb-8b52-7bf5b986771b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office Address - Test Address, , Bangalore Karnataka'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>0c7a7578-3273-4bbd-a16b-965cf8c0efcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::*[name()='svg'][1]</value>
+      <webElementGuid>592f8ba9-8978-4960-80cc-718dfdafb095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address details'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>d033c8cc-f998-45d0-b1a3-7625ff303929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Customer'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>1f5d2659-cf8a-45b4-855d-732c7e2f1a4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

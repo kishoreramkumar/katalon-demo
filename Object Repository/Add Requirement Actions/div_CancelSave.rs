@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CancelSave</name>
+   <tag></tag>
+   <elementGuidId>f523d64b-0d2d-4033-a7ef-1a3f7efc2c36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[3]/div/div[2]/form/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-end.gap-2.px-6.pt-4.mt-20.-mx-6.border-t.border-gray-200</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1377817f-c147-4e7e-99ed-3db8ee403151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-end gap-2 px-6 pt-4 mt-20 -mx-6 border-t border-gray-200</value>
+      <webElementGuid>6ee77194-cc9f-419f-9d27-8c53b077b823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CancelSave</value>
+      <webElementGuid>c4aa2f66-4cba-4179-bbd2-066e3ff7473c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;flex h-screen&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex-1 flex overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto main-content py-10 px-4 md:px-8 scrollbar scrollbar_for_firefox&quot;]/div[@class=&quot;flex justify-center undefined&quot;]/div[@class=&quot;block p-6 rounded-lg shadow-lg bg-white min-w-full border border-gray-200&quot;]/div[@class=&quot;fixed z-30 inset-0 overflow-y-auto  false&quot;]/div[@class=&quot;flex items-center justify-center h-screen&quot;]/div[@class=&quot;z-40 absolute p-6 mt-24 md:mt-0 mx-2 md:mx-1 overflow-auto inline-block max-h-90 h-auto rounded-lg modalscrollbar bg-white text-left shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-xl w-full undefined&quot;]/form[@class=&quot;mt-5&quot;]/div[@class=&quot;flex justify-end gap-2 px-6 pt-4 mt-20 -mx-6 border-t border-gray-200&quot;]</value>
+      <webElementGuid>1361349c-16a0-4c84-97c2-8a53eb717535</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[3]/div/div[2]/form/div[6]</value>
+      <webElementGuid>ede70ee3-f9d9-474e-b9a1-214d052d9627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional comments'])[1]/following::div[2]</value>
+      <webElementGuid>ed4d8cad-001c-4c0d-b560-85332eb2e73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Customisation'])[1]/following::div[7]</value>
+      <webElementGuid>c0518370-b2e0-4712-b1b9-2d7a19c33caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>4f23ef9e-0121-492d-88a3-2c6ceab6bd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CancelSave' or . = 'CancelSave')]</value>
+      <webElementGuid>94393d59-cef3-4624-8c1a-980ce9f3bd3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

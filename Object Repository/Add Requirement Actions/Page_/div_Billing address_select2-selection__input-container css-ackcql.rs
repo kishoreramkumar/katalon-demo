@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Billing address_select2-selection__input-container css-ackcql</name>
+   <tag></tag>
+   <elementGuidId>03961d3d-790e-4b44-afa7-95a1304e3019</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/form/div[5]/div[2]/div[2]/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ae88eb5-e3db-427e-a4d9-e1e989a5bbfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__input-container css-ackcql</value>
+      <webElementGuid>d0301685-f076-4431-b106-0ef3c7d2cdab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;flex h-screen&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex-1 flex overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto main-content py-10 px-4 md:px-8 scrollbar scrollbar_for_firefox&quot;]/div[@class=&quot;flex justify-center undefined&quot;]/div[@class=&quot;block p-6 rounded-lg shadow-lg bg-white min-w-full border border-gray-200&quot;]/form[1]/div[@class=&quot;grid grid-cols-1 gap-6 mt-5 md:grid-cols-2&quot;]/div[2]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full css-b62m3t-container&quot;]/div[@class=&quot;select2-selection__control css-4vr5o6-control&quot;]/div[@class=&quot;select2-selection__value-container css-1d8n9bt&quot;]/div[@class=&quot;select2-selection__input-container css-ackcql&quot;]</value>
+      <webElementGuid>eaa6717a-2d23-4122-8eb4-eec3badd0682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/form/div[5]/div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>80da9785-ee73-4b9a-8d26-62d78f9c378f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing address'])[1]/following::div[1]</value>
+      <webElementGuid>8dc5e159-2f4a-4fb3-82b8-2f03c4a6b7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::div[6]</value>
+      <webElementGuid>eda845f7-14a8-4549-aa96-3e71c230d4e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[3]</value>
+      <webElementGuid>c7a64c27-01df-464f-9ec1-14c91e7ef5dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[3]</value>
+      <webElementGuid>3fbf098b-585c-4602-82ac-af66e4a97677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>fec3ce6f-e0fa-4622-aac7-377a5751c8c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
