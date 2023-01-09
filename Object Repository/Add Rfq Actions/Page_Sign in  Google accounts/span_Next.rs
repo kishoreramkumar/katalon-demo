@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Next</name>
    <tag></tag>
-   <elementGuidId>1a9ac0ff-c87c-4004-881e-e5e236ac5bad</elementGuidId>
+   <elementGuidId>e1e93d68-211f-4955-b68f-eb23d4043db4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.nCP5yc.AjY5Oe.DuMIQc.LQeN7.qIypjc.TrZEUc.lw1w4b > span.VfPpkd-vQzf8d</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='‪Afrikaans‬'])[1]/preceding::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.nCP5yc.AjY5Oe.DuMIQc.LQeN7.qIypjc.TrZEUc.lw1w4b > span.VfPpkd-vQzf8d</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

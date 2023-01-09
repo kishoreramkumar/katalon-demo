@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id = 'react-select-instance-id-category-option-6']</value>
+         <value>//*[@id = 'react-select-instance-id-category-option-5']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>react-select-instance-id-category-option-6</value>
-      <webElementGuid>5e47def1-d605-4084-a7b7-031d64120a7c</webElementGuid>
+      <value>react-select-instance-id-category-option-5</value>
+      <webElementGuid>797868fa-0ecf-45d4-9d32-f11c211d8aac</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

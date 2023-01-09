@@ -21,61 +21,102 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app5.arisinfra.com:9443/')
 
-WebUI.click(findTestObject('Page_/button_Sign in with Google'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_/button_Sign in with Google'))
 
-WebUI.setText(findTestObject('Page_Sign in  Google accounts/input_arisinfra.com_identifier'), 'kishore.r@arisinfra.one')
+WebUI.setText(findTestObject('Object Repository/Add Rfq Actions/Page_Sign in  Google accounts/input_arisinfra.com_identifier'), 
+    'kishore.r@arisinfra.one')
 
-WebUI.click(findTestObject('Page_Sign in  Google accounts/span_Next'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Sign in  Google accounts/span_Next'))
 
-WebUI.setText(findTestObject('Page_Sign in  Google accounts/input_Too many failed attempts_password'), 'Rkishore@2017')
+WebUI.setText(findTestObject('Object Repository/Add Rfq Actions/Page_Sign in  Google accounts/input_Too many failed attempts_password'), 
+    'Rkishore@2017')
 
-WebUI.click(findTestObject('Page_Sign in  Google accounts/span_Next'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Sign in  Google accounts/span_Next'))
 
-WebUI.click(findTestObject('Page_/div_Requirements'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_/div_Requirements'))
 
-WebUI.click(findTestObject('Page_Requirements/button_Add New'))
+WebUI.click(findTestObject('Object Repository/Page_Requirements/button_Add New'))
 
-WebUI.click(findTestObject('Page_/input__react-select-instance-id-project-input'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_/input__react-select-instance-id-project-input'))
 
-WebUI.setText(findTestObject('Page_/input__react-select-instance-id-project-input'), 'Test Project')
+WebUI.setText(findTestObject('Object Repository/Add Rfq Actions/Page_/input__react-select-instance-id-project-input'), 'Test Project')
 
-WebUI.click(findTestObject('Project option'))
+WebUI.click(findTestObject('Object Repository/Project option'))
 
-WebUI.click(findTestObject('Page_/div__select2-selection__input-container css-ackcql'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_/div__select2-selection__input-container css-ackcql'))
 
-WebUI.click(findTestObject('Select Customer option'))
+WebUI.click(findTestObject('Object Repository/Select Customer option'))
 
-WebUI.click(findTestObject('Add Requirement Actions/Page_/div_Search and select site address_select2-selection__input-container css-ackcql'))
+WebUI.scrollToElement(findTestObject('Add Requirement Actions/Page_/button_Save'), 0)
 
-WebUI.click(findTestObject('Add Requirement Actions/Site address option'))
+WebUI.click(findTestObject('Object Repository/Add Requirement Actions/Page_/div_Search and select site address_select2-selection__input-container css-ackcql'))
 
-WebUI.click(findTestObject('Add Requirement Actions/Page_/div_Billing address_select2-selection__input-container css-ackcql'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/Site address option'))
 
-WebUI.click(findTestObject('Add Requirement Actions/Billing address option'))
+WebUI.click(findTestObject('Object Repository/Add Requirement Actions/Page_/div_Billing address_select2-selection__input-container css-ackcql'))
 
-WebUI.setText(findTestObject('Page_/input__estimatedDate'), '10/01/2023')
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/Billing address option'))
 
-WebUI.click(findTestObject('Add Requirement Actions/Page_/button_Save'))
+WebUI.setText(findTestObject('Object Repository/Add Rfq Actions/Page_/input__estimatedDate'), '10/01/2023')
 
-WebUI.click(findTestObject('Add Requirement Actions/button_Add Item'))
+WebUI.click(findTestObject('Object Repository/Add Requirement Actions/Page_/button_Save'))
 
-WebUI.click(findTestObject('Add Requirement Actions/div_Search and select'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/button_Add Item'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/div_Search and select'))
 
 WebUI.click(findTestObject('Add Requirement Actions/item category option'))
 
-WebUI.click(findTestObject('Add Requirement Actions/div_Search and select_select2-selection__input-container css-ackcql'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/div_Search and select_select2-selection__input-container css-ackcql'))
 
-WebUI.click(findTestObject('Add Requirement Actions/item name option'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/item name option'))
 
-WebUI.click(findTestObject('Add Requirement Actions/div_Select Grade_select2-selection__input-container css-ackcql'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/div_Select Grade_select2-selection__input-container css-ackcql'))
 
-WebUI.click(findTestObject('Add Requirement Actions/item grade option'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/item grade option'))
 
-WebUI.setText(findTestObject('Add Requirement Actions/input__quantity'), '22')
+WebUI.setText(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/input__quantity'), '22')
 
-WebUI.click(findTestObject('Add Requirement Actions/Page_/Page_/button_Save'))
+WebUI.click(findTestObject('Object Repository/Add Requirement Actions/Page_/Page_/button_Save'))
 
-WebUI.click(findTestObject('Add Requirement Actions/button_Generate RFQ'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/button_Generate RFQ'))
 
-WebUI.click(findTestObject('Add Requirement Actions/button_Confirm'))
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/button_Confirm'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Rfqs/div_Edit Draft'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Rfq Detail/button_Confirm Draft'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Rfq Detail/button_Send RFQ to vendors'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/button_Add vendor'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/div_Search and select vendor_select2-select_452e0a'))
+
+WebUI.setText(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/input__react-select-instance-id-vendor-input'), 
+    'test v')
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/div_Test Vendor Legal'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/div_Search and select_select2-selection__in_46360a'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/div_Kishore, Purchase Officer'))
+
+WebUI.waitForElementClickable(findTestObject('Add Rfq Actions/Page_Send Rfq/button_Save'), 0)
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/button_Save'))
+
+WebUI.scrollToElement(findTestObject('Add Rfq Actions/Page_Send Rfq/button_Send'), 0)
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/button_Send'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/span_Do you want to share quantity with ven_27755a'))
+
+WebUI.click(findTestObject('Add Rfq Actions/Page_Send Rfq/span_Do you want to share customer name with vendor_checkmark'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/button_Save'))
+
+WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/button_Confirm'))
+
+WebUI.closeBrowser()
 

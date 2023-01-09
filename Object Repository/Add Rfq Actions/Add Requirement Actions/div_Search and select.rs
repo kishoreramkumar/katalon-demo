@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search and select</name>
+   <tag></tag>
+   <elementGuidId>0b259b82-d290-4900-8da2-065c6e84db4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[3]/div/div[2]/form/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select2-selection__value-container.css-1d8n9bt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28d01fd6-16ea-476a-8cdf-5c94d3adcf2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__value-container css-1d8n9bt</value>
+      <webElementGuid>1875034e-c715-4f71-8896-f3b66b0bbfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search and select</value>
+      <webElementGuid>786e79bb-c2fc-4a04-b44a-94373fa4eb2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative&quot;]/div[@class=&quot;flex h-screen&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex-1 flex overflow-hidden&quot;]/div[@class=&quot;flex-1 overflow-y-auto main-content py-10 px-4 md:px-8 scrollbar scrollbar_for_firefox&quot;]/div[@class=&quot;flex justify-center undefined&quot;]/div[@class=&quot;block p-6 rounded-lg shadow-lg bg-white min-w-full border border-gray-200&quot;]/div[@class=&quot;fixed z-30 inset-0 overflow-y-auto  false&quot;]/div[@class=&quot;flex items-center justify-center h-screen&quot;]/div[@class=&quot;z-40 absolute p-6 mt-24 md:mt-0 mx-2 md:mx-1 overflow-auto inline-block max-h-90 h-auto rounded-lg modalscrollbar bg-white text-left shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-xl w-full undefined&quot;]/form[@class=&quot;mt-5&quot;]/div[@class=&quot;grid grid-cols-1 gap-3 mt-2 md:grid-cols-2 md:mt-5&quot;]/div[1]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full css-b62m3t-container&quot;]/div[@class=&quot;select2-selection__control css-4vr5o6-control&quot;]/div[@class=&quot;select2-selection__value-container css-1d8n9bt&quot;]</value>
+      <webElementGuid>1f2b988e-c712-4198-a990-08f62d4f6472</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[3]/div/div[2]/form/div/div/div[2]/div/div/div</value>
+      <webElementGuid>6ddbc01b-6428-4dc7-a0e6-82224c2bd9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[4]</value>
+      <webElementGuid>ad832bc0-bb29-4ff0-81d5-2076a7a180cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/div/div/div</value>
+      <webElementGuid>e765c33e-9afe-47a8-9cd8-dfb7864133eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Search and select' or . = 'Search and select')]</value>
+      <webElementGuid>1363674a-d885-4def-93ad-45d645010228</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
