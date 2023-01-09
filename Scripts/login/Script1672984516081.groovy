@@ -61,6 +61,8 @@ WebUI.setText(findTestObject('Object Repository/Add Rfq Actions/Page_/input__est
 
 WebUI.click(findTestObject('Object Repository/Add Requirement Actions/Page_/button_Save'))
 
+WebUI.takeScreenshotAsCheckpoint('Checkpoint1')
+
 WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/button_Add Item'))
 
 WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/div_Search and select'))
@@ -82,6 +84,8 @@ WebUI.click(findTestObject('Object Repository/Add Requirement Actions/Page_/Page
 WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/button_Generate RFQ'))
 
 WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Add Requirement Actions/button_Confirm'))
+
+WebUI.takeScreenshotAsCheckpoint('Checkpoint 2')
 
 WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Rfqs/div_Edit Draft'))
 
@@ -117,6 +121,8 @@ WebUI.click(findTestObject('Add Rfq Actions/Page_Send Rfq/span_Do you want to sh
 WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/button_Save'))
 
 WebUI.click(findTestObject('Object Repository/Add Rfq Actions/Page_Send Rfq/button_Confirm'))
+
+WebUI.takeScreenshotAsCheckpoint('Checkpoint 3')
 
 WebUI.closeBrowser()
 
